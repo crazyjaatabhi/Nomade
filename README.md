@@ -1,11 +1,11 @@
 <div align="center">
 
-<a href="https://files.catbox.moe/j2yhce.jpg">
-  <img src="https://files.catbox.moe/j2yhce.jpg" width="300" height="300" />
+<a href="https://files.catbox.moe/xk585s.jpg">
+  <img src="https://files.catbox.moe/xk585s.jpg" width="300" height="300" />
 </a>
 
-![Stars](https://img.shields.io/github/stars/LearningBotsOfficial/Nomade)
-![Forks](https://img.shields.io/github/forks/LearningBotsOfficial/Nomade)
+![Stars](https://files.catbox.moe/xk585s.jpg)
+![Forks](https://files.catbox.moe/xk585s.jpg)
 
 ----------------------------------------------------
 A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Telegram groups
