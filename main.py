@@ -1,9 +1,9 @@
 # ============================================================
 # Group Manager Bot
-# Author: learningbots79 (https://github.com/learningbots79)
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+# Author: GODFATHER (https://t.me/friends_chatting_circle_pro)
+# Support: https://t.me/friends_chatting_circle_pro
+# Channel: https://t.me/friends_chatting_circle_pro
+# YouTube: https://t.me/friends_chatting_circle_pro
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
